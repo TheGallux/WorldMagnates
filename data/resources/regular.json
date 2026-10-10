@@ -1,0 +1,650 @@
+{
+    "europe": {
+        "scandinavie": {
+            "construction_navale1": {
+                "percentage": 20,
+                "price": 1500000
+            },
+            "construction_navale2": {
+                "percentage": 5,
+                "price": 500000
+            },
+            "cobalt1": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "cobalt2": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "aluminium": {
+                "percentage": 5,
+                "price": 500000
+            }
+        },
+        "allemagne": {
+            "construction_automobile": {
+                "percentage": 15,
+                "price": 1500000
+            },
+            "construction_navale": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "acier": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "houille": {
+                "percentage": 10,
+                "price": 1000000
+            }
+        },
+        "royaume_uni": {
+            "construction_automobile": {
+                "percentage": 5,
+                "price": 500000
+            },
+            "acier": {
+                "percentage": 5,
+                "price": 500000
+            },
+            "houille": {
+                "percentage": 10,
+                "price": 1000000
+            }
+        },
+        "france": {
+            "construction_automobile": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "construction_navale": {
+                "percentage": 5,
+                "price": 500000
+            },
+            "uranium": {
+                "percentage": 5,
+                "price": 500000
+            },
+            "aluminium": {
+                "percentage": 5,
+                "price": 500000
+            },
+            "ble": {
+                "percentage": 5,
+                "price": 500000
+            }
+        },
+        "europe_mediterraneenne": {
+            "tungstene1": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "tungstene2": {
+                "percentage": 5,
+                "price": 500000
+            },
+            "construction_navale": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "construction_automobile": {
+                "percentage": 10,
+                "price": 1000000
+            }
+        },
+        "europe_danubienne": {
+            "houille": {
+                "percentage": 10,
+                "price": 1000000
+            }
+        },
+        "europe_balkanique": {
+            "tabac1": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "tabac2": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "argent": {
+                "percentage": 5,
+                "price": 500000
+            }
+        }
+    },
+    "amerique": {
+        "canada": {
+            "nickel": {
+                "percentage": 45,
+                "price": 4000000
+            },
+            "argent": {
+                "percentage": 35,
+                "price": 3000000
+            },
+            "cuivre": {
+                "percentage": 15,
+                "price": 1500000
+            },
+            "uranium": {
+                "percentage": 15,
+                "price": 1500000
+            },
+            "cobalt": {
+                "percentage": 15,
+                "price": 1000000
+            },
+            "plomb": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "aluminium": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "fer": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "or": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "ble": {
+                "percentage": 5,
+                "price": 500000
+            }
+        },
+        "mexique": {
+            "argent": {
+                "percentage": 15,
+                "price": 1000000
+            },
+            "cafe": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "plomb": {
+                "percentage": 5,
+                "price": 500000
+            }
+        },
+        "antilles": {
+            "sucre": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "nickel": {
+                "percentage": 5,
+                "price": 500000
+            }
+        },
+        "venezuela": {
+            "petrole": {
+                "percentage": 5,
+                "price": 500000
+            },
+            "cacao": {
+                "percentage": 5,
+                "price": 500000
+            }
+        },
+        "pays_andins": {
+            "argent": {
+                "percentage": 25,
+                "price": 2000000
+            },
+            "cafe": {
+                "percentage": 15,
+                "price": 1000000
+            },
+            "cuivre": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "tungstene": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "plomb": {
+                "percentage": 5,
+                "price": 500000
+            }
+        },
+        "bresil": {
+            "sucre": {
+                "percentage": 25,
+                "price": 2500000
+            },
+            "cafe": {
+                "percentage": 25,
+                "price": 1000000
+            },
+            "cacao": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "fer": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "coton_brut": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "tabac": {
+                "percentage": 10,
+                "price": 500000
+            }
+        },
+        "argentine": {
+            "laine_brute1": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "laine_brute2": {
+                "percentage": 5,
+                "price": 500000
+            }
+        }
+    },
+    "afrique": {
+        "maghreb": {
+            "petrole": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "cobalt": {
+                "percentage": 10,
+                "price": 500000
+            }
+        },
+        "egypte": {
+            "coton_brut": {
+                "percentage": 10,
+                "price": 500000
+            }
+        },
+        "afrique_occidentale": {
+            "cacao1": {
+                "percentage": 35,
+                "price": 1500000
+            },
+            "cacao2": {
+                "percentage": 20,
+                "price": 1000000
+            },
+            "cacao3": {
+                "percentage": 15,
+                "price": 500000
+            },
+            "cacao4": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "cafe": {
+                "percentage": 15,
+                "price": 500000
+            },
+            "caoutchouc_naturel": {
+                "percentage": 5,
+                "price": 500000
+            }
+        },
+        "afrique_centrale": {
+            "cobalt": {
+                "percentage": 35,
+                "price": 2000000
+            },
+            "cafe": {
+                "percentage": 15,
+                "price": 500000
+            },
+            "cuivre": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "uranium": {
+                "percentage": 10,
+                "price": 1000000
+            }
+        },
+        "afrique_des_grands_lacs": {
+            "cobalt": {
+                "percentage": 15,
+                "price": 1000000
+            },
+            "cuivre": {
+                "percentage": 10,
+                "price": 1000000
+            }
+        },
+        "afrique_du_sud": {
+            "or": {
+                "percentage": 45,
+                "price": 4500000
+            },
+            "cafe": {
+                "percentage": 15,
+                "price": 500000
+            },
+            "laine_brute": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "uranium": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "nickel": {
+                "percentage": 5,
+                "price": 500000
+            }
+        }
+    },
+    "asie": {
+        "moyen_orient-iran": {
+            "petrole1": {
+                "percentage": 25,
+                "price": 3000000
+            },
+            "petrole2": {
+                "percentage": 15,
+                "price": 2000000
+            }
+        },
+        "peninsule_indienne": {
+            "riz1": {
+                "percentage": 25,
+                "price": 2000000
+            },
+            "riz2": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "sucre": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "coton_brut": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "ble": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "caoutchouc_naturel1": {
+                "percentage": 5,
+                "price": 500000
+            },
+            "caoutchouc_naturel2": {
+                "percentage": 5,
+                "price": 500000
+            }
+        },
+        "peninsule_indochinoise": {
+            "caoutchouc_naturel1": {
+                "percentage": 40,
+                "price": 1500000
+            },
+            "caoutchouc_naturel2": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "riz": {
+                "percentage": 5,
+                "price": 500000
+            }
+        },
+        "japon": {
+            "construction_navale": {
+                "percentage": 45,
+                "price": 3000000
+            },
+            "construction_automobile": {
+                "percentage": 20,
+                "price": 2000000
+            },
+            "acier": {
+                "percentage": 15,
+                "price": 1500000
+            },
+            "aluminium": {
+                "percentage": 15,
+                "price": 1500000
+            },
+            "or": {
+                "percentage": 5,
+                "price": 500000
+            },
+            "tungstene": {
+                "percentage": 5,
+                "price": 500000
+            },
+            "riz": {
+                "percentage": 5,
+                "price": 500000
+            }
+        },
+        "chine": {
+            "tungstene": {
+                "percentage": 45,
+                "price": 2000000
+            },
+            "riz": {
+                "percentage": 40,
+                "price": 2500000
+            },
+            "houille": {
+                "percentage": 20,
+                "price": 2000000
+            },
+            "coton_brut": {
+                "percentage": 15,
+                "price": 1000000
+            },
+            "ble": {
+                "percentage": 15,
+                "price": 1000000
+            },
+            "sucre": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "fer": {
+                "percentage": 5,
+                "price": 500000
+            },
+            "acier": {
+                "percentage": 5,
+                "price": 500000
+            }
+        },
+        "indonesie": {
+            "caoutchouc_naturel": {
+                "percentage": 30,
+                "price": 1000000
+            },
+            "riz": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "tabac": {
+                "percentage": 5,
+                "price": 500000
+            }
+        }
+    },
+    "etats-unis": {
+        "etats-unis": {
+            "tabac": {
+                "percentage": 45,
+                "price": 2500000
+            },
+            "plomb": {
+                "percentage": 40,
+                "price": 2000000
+            },
+            "aluminium": {
+                "percentage": 40,
+                "price": 3500000
+            },
+            "construction_automobile": {
+                "percentage": 35,
+                "price": 3500000
+            },
+            "acier": {
+                "percentage": 35,
+                "price": 4000000
+            },
+            "coton_brut": {
+                "percentage": 30,
+                "price": 2000000
+            },
+            "uranium": {
+                "percentage": 30,
+                "price": 2500000
+            },
+            "cuivre": {
+                "percentage": 30,
+                "price": 2500000
+            },
+            "houille": {
+                "percentage": 25,
+                "price": 3000000
+            },
+            "ble": {
+                "percentage": 20,
+                "price": 1500000
+            },
+            "tungstene": {
+                "percentage": 20,
+                "price": 1000000
+            },
+            "fer": {
+                "percentage": 20,
+                "price": 2000000
+            },
+            "petrole": {
+                "percentage": 20,
+                "price": 2000000
+            },
+            "argent": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "sucre": {
+                "percentage": 10,
+                "price": 1000000
+            },
+            "nickel": {
+                "percentage": 5,
+                "price": 500000
+            },
+            "or": {
+                "percentage": 5,
+                "price": 500000
+            }
+        }
+    },
+    "urss": {
+        "urss": {
+            "ble": {
+                "percentage": 40,
+                "price": 3000000
+            },
+            "fer": {
+                "percentage": 35,
+                "price": 3500000
+            },
+            "sucre": {
+                "percentage": 30,
+                "price": 3000000
+            },
+            "or": {
+                "percentage": 25,
+                "price": 2000000
+            },
+            "acier": {
+                "percentage": 25,
+                "price": 3000000
+            },
+            "plomb": {
+                "percentage": 25,
+                "price": 1500000
+            },
+            "uranium": {
+                "percentage": 25,
+                "price": 2000000
+            },
+            "aluminium": {
+                "percentage": 20,
+                "price": 2000000
+            },
+            "petrole": {
+                "percentage": 20,
+                "price": 2500000
+            },
+            "laine_brute": {
+                "percentage": 20,
+                "price": 1000000
+            },
+            "coton_brut": {
+                "percentage": 20,
+                "price": 1000000
+            },
+            "cuivre": {
+                "percentage": 20,
+                "price": 2000000
+            },
+            "houille": {
+                "percentage": 20,
+                "price": 2000000
+            },
+            "tabac": {
+                "percentage": 15,
+                "price": 1000000
+            },
+            "nickel": {
+                "percentage": 15,
+                "price": 1500000
+            }
+        }
+    },
+    "oceanie": {
+        "oceanie": {
+            "laine_brute1": {
+                "percentage": 35,
+                "price": 2000000
+            },
+            "laine_brute2": {
+                "percentage": 15,
+                "price": 1000000
+            },
+            "nickel": {
+                "percentage": 20,
+                "price": 1500000
+            },
+            "fer": {
+                "percentage": 15,
+                "price": 1500000
+            },
+            "plomb": {
+                "percentage": 10,
+                "price": 500000
+            },
+            "argent": {
+                "percentage": 5,
+                "price": 500000
+            },
+            "or": {
+                "percentage": 5,
+                "price": 500000
+            }
+        }
+    }
+}
