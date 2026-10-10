@@ -3,8 +3,8 @@ Player state and actions for World Magnates.
 """
 
 
-from resource import Resource
-from resource_pool import ResourcePool
+from .resource import Resource
+from .resource_pool import ResourcePool
 
 
 class Player:

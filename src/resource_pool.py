@@ -6,7 +6,7 @@ import json
 import re
 from copy import deepcopy
 
-from resource import Resource
+from .resource import Resource
 
 
 class ResourcePool:
@@ -19,9 +19,10 @@ class ResourcePool:
         Initialize an empty resource pool.
         """
 
-        self._data = data if data is not None else None
+        self._data = data if data is not None else {}
 
-    def from_json(self, cls, path: str) -> "ResourcePool":
+    @classmethod
+    def from_json(cls, path: str) -> "ResourcePool":
         """
         Load resources from a JSON file into a new pool.
 
